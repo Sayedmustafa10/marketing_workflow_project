@@ -1,0 +1,13 @@
+pandas
+numpy
+scikit-learn
+xgboost
+joblib
+fpdf
+python-pptx
+flask
+sqlalchemy
+psycopg2-binary
+matplotlib
+seaborn
+faker
